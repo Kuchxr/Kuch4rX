@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kuch4rX
-- 👀 I’m interested in Coding C#
-- 🌱 I’m currently learning Coding C#
-- 💞️ I’m looking to collaborate with duki
+- 👀 I’m interested in Coding and Editing films
+- 🌱 I’m currently doing a big discord server and making a disocord bot for it also making a windows forms app to edit the sql server
 - 📫 How to reach me: Discord:Kuch4r#9890
 
 
