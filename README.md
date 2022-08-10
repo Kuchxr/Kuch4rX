@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuch4rX
 - 👀 I’m interested in Coding and Editing films
-- 🌱 I’m currently doing a big discord server and making a disocord bot for it also making a windows forms app to edit the sql server
+- 🌱 I’m currently doing a nap
 - 📫 How to reach me: Discord:Kuch4r#9890
 
 
