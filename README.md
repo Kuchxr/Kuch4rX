@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kuch4rX
 - 👀 I’m interested in Coding and Editing films
-- 🌱 I’m currently starting in a school programming competition
 - 📫 How to reach me: Discord:Kuch4r#9890
 
 
