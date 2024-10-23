@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kuch4rX
 - 👀 I’m interested in Coding and Editing films
-- 📫 How to reach me: Discord:Kuch4r#9890
+- 📫 How to reach me:
+ - Discord: .kuchxr.
 
 
 <!---
